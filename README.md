@@ -1,12 +1,11 @@
 # Task Manager App
 
-A simple React application that fetches and displays a list of tasks, allowing filtering, searching, and sorting.
+A simple React application that fetches and displays a list of tasks, allowing filtering, searchin.
 
 ## 🚀 Features
 - Fetches tasks from [JSONPlaceholder](https://jsonplaceholder.typicode.com/todos).
 - Filters tasks by status (All, Completed, Pending).
 - Search functionality to find tasks by title.
-- Sorting tasks by title.
 - Toggle task completion (UI-only change).
 - Manages state using `Context API` and `useReducer`.
 - Uses `React Query` for data fetching.
